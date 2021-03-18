@@ -20,6 +20,8 @@ Using sql, please answer the following questions about the data that has been sh
 10. What is the salary of the employee who has worked on the fewest projects?
 11. Which category has generated the most revenue all time?
 12. What is the first and last order amount from each month in the data set?
+13. What database did you use and why?
+14. Outline the basic workflow you used to get all the data from this repo into your database
 
 
 __Extra credit__:
