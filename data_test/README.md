@@ -16,7 +16,7 @@ Using sql, please answer the following questions about the data that has been sh
 6. What is the average employee salary by project?
 7. Which customer has the highest net order revenue?
 8. What are the most and least frequently ordered products?
-9. Which employee has worked on the most projects and how much of his salary was earned while working on projects?
+9. Which employee has worked on the most projects and how much of their salary was earned while working on projects?
 10. What is the salary of the employee who has worked on the fewest projects?
 11. Which category has generated the most revenue all time?
 12. What is the first and last order amount from each month in the data set?
